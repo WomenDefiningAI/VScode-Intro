@@ -14,57 +14,6 @@ By the end of this workshop, you'll be able to:
 - **Edit code and use the terminal** to run your projects
 - **Integrate Claude Code** to get AI assistance while you build
 
-These aren't abstract concepts—we're going to do all of this together, step by step.
-
----
-
-## Before You Start
-
-Before the workshop begins, please complete these quick setup steps. This ensures the workshop runs smoothly and you can focus on learning without technical delays.
-
-### Download and Install VS Code
-
-**Visit the VS Code website:** https://code.visualstudio.com/
-
-VS Code is a free, open-source code editor developed by Microsoft. It's lightweight, incredibly powerful, and works on Windows, Mac, and Linux.
-
-#### Installation Instructions for Windows
-
-1. Go to https://code.visualstudio.com/
-2. Click the **Download** button (it will detect Windows automatically)
-3. Run the installer file (VSCodeUserSetup-x64-x.x.x.exe)
-4. Follow the installation wizard, accept the license agreement
-5. When prompted, check the box that says "Add to PATH" (this makes it easier to open VS Code from your terminal)
-6. Click **Install** and wait for it to complete
-7. Click **Finish**
-
-You're done! VS Code is now installed.
-
-#### Installation Instructions for Mac
-
-1. Go to https://code.visualstudio.com/
-2. Click the **Download** button for Mac
-3. Once the zip file downloads, find it in your Downloads folder
-4. Unzip it (double-click the .zip file)
-5. Drag the VS Code application to your **Applications** folder
-6. You're done! You can now open VS Code from your Applications folder or Spotlight search
-
-#### Installation Instructions for Linux
-
-1. Go to https://code.visualstudio.com/ and scroll down to find your Linux distribution
-2. Follow the download instructions for your specific distribution (Ubuntu, Fedora, Debian, etc.)
-3. Most Linux distributions have VS Code available through their package manager (apt, yum, snap, etc.)
-4. Once installed, open it from your applications menu or type `code` in your terminal
-
-### Verification Step
-
-After installation, open VS Code to make sure everything works:
-
-1. Launch VS Code from your Applications folder (Mac), Start menu (Windows), or command line
-2. You should see the **Welcome** tab when it opens
-3. If you can see the Welcome page, you're all set for the workshop!
-
-**Note:** We recommend sharing the download link in Slack or email to your team ahead of time so everyone has VS Code ready before we start. This gives everyone plenty of time to install it without rushing.
 
 ---
 
@@ -157,7 +106,7 @@ When your file browser opens (Finder on Mac, File Explorer on Windows), VS Code 
 
 VS Code will ask you: "Would you like to open the cloned repository?" Click the blue **Open** button. The VScode-Intro repository will now open in your current VS Code window, and you'll see all the project files listed in the Explorer panel on the left side.
 
-Congratulations! You've successfully cloned a repository. This is a core skill for any builder working with code.
+Congratulations! You've successfully cloned a repository. This is a core skill for any builder working with VS Code and GitHub.
 
 ---
 
@@ -231,6 +180,21 @@ You might have heard about Claude Code, Lovable, or Cursor. These are AI-powered
 
 All of these tools recognize VS Code's importance in the development workflow. This tells you something important: VS Code is industry standard. When you learn VS Code, you're learning a skill that will serve you across multiple tools and platforms. You're learning the language of code editors, and that language is spoken everywhere in the tech world.
 
+### Demo Time: Same Prompt, Three Interfaces
+
+To see how different AI coding assistants look and feel, I'll run the exact same prompt in three places:
+
+> create a sample file of around 20 lines of code
+
+- **Terminal** — using Claude Code in the integrated terminal
+- **Chat** — using VS Code's built-in Chat panel (Copilot Chat)
+- **Claude Code Sidebar** — using the Claude Code extension's sidebar view
+
+**What to notice:**
+- How the response is displayed (plain terminal text vs. chat bubble vs. sidebar panel)
+- How you review and accept the generated file in each case
+- Which interface feels most natural to you as a first-time user
+
 ### Why Builders Choose VS Code Over Other Editors
 
 You might wonder: why VS Code and not Sublime Text, Vim, Emacs, or other editors? Here are the reasons VS Code has become the go-to choice for builders:
@@ -282,7 +246,7 @@ The first time most people open VS Code, they see a dense interface packed with 
 
 > **Remember this:** You don't need to master VS Code today. Small steps, repeated over time, will make you a power user. Every expert developer you know started exactly where you are right now—looking at this interface and thinking, "What does all of this do?"
 
-I learned VS Code seven years ago, and I still remember how overwhelmed I felt. I was staring at all these buttons and menus, and my brain kept saying, "This is too much. I don't understand this." I felt like everyone else knew what they were doing, and I was the only one confused. Spoiler alert: I wasn't. Everyone feels this way at first.
+I learned VS Code seven years ago, and I still remember how overwhelmed I felt. I was staring at all these buttons and menus, and my brain kept saying, "This is too much. I don't understand this." I felt like everyone else knew what they were doing, and I was the only one confused. Most everyone feels this way at first.
 
 ### Reframing What VS Code Actually Is
 
@@ -317,6 +281,8 @@ The sidebar contains several icons stacked vertically on the far left. Each icon
 | **Play button** | Run and Debug | Configure and run your code with debugging tools. Set breakpoints, inspect variables, and step through your code line by line. | When testing your code or tracking down bugs. |
 
 Click any of these icons to switch to that panel. The sidebar adapts based on what you're doing, so the active panel changes based on your current task.
+
+> **Branching note:** In a shared repository, it’s best to create branches for your work so your changes stay organized and don’t interfere with others. In personal repos, many people may still push directly to main, so this can stay lightweight. In VS Code, you can click the branch name in the lower-left corner to open the branch menu and create a branch.
 
 **Pro tip:** You can also hide the sidebar temporarily by pressing **Ctrl+B** (Windows/Linux) or **Cmd+B** (Mac) to give yourself more space to view your code. Press it again to bring the sidebar back.
 
