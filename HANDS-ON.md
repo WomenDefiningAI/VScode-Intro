@@ -1,4 +1,4 @@
-# Practice Smiles 🌟
+# Hands On 🌟
 
 Welcome to your first hands-on Git workflow! This is a practice file where you'll make your first change, commit it, and push it to GitHub. It's not about writing code—it's about seeing your changes come to life.
 
