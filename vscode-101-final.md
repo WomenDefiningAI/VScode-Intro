@@ -398,11 +398,11 @@ Cursor is great if you want a cohesive AI + editor experience; Claude Code is be
 |--------|----------|
 | **Comment/uncomment a line** | **Ctrl+/** (Windows/Linux) or **Cmd+/** (Mac) |
 | **Select entire line** | **Ctrl+L** or click line number three times |
-| **Duplicate a line** | **Ctrl+D** (Windows/Linux) or **Cmd+D** (Mac)—careful, this is also "select word"; long press to add multiple selections |
+| **Duplicate a line** | **Shift+Alt+Down** (Windows/Linux) or **Shift+Option+Down** (Mac) |
 | **Delete a line** | **Ctrl+Shift+K** (Windows/Linux) or **Cmd+Shift+K** (Mac) |
 | **Move a line up or down** | **Alt+Up/Down Arrow** (Windows/Linux) or **Option+Up/Down Arrow** (Mac) |
-| **Wrap in a tag (HTML)** | Type the tag and press **Ctrl+Shift+W** |
-| **Multi-cursor editing** | **Ctrl+D** to select the next occurrence; **Ctrl+K Ctrl+D** to skip; **Ctrl+U** to undo selection |
+| **Format/auto-indent code** | **Shift+Alt+F** (Windows/Linux) or **Shift+Option+F** (Mac) |
+| **Multi-cursor editing** | **Ctrl+D** (Windows/Linux) or **Cmd+D** (Mac) to select the next occurrence; **Ctrl+K Ctrl+D** to skip; **Ctrl+U** to undo selection |
 
 ### Source Control Workflow: Git and GitHub
 

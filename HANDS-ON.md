@@ -41,7 +41,7 @@ You just participated in the same workflow that professional developers use ever
 
 ---
 
-## Demo: Which AI Coding Experience Feels Best to You?
+## Try It Yourself: Which AI Coding Experience Feels Best?
 
 Let's ask three AI coding tools to complete the same small task. This is not a contest to find one universal winner. Pay attention to where you type, how the tool shows its work, what it asks you to approve, and which experience feels most natural to you.
 

@@ -180,7 +180,7 @@ You might have heard about Claude Code, Lovable, or Cursor. These are AI-powered
 
 All of these tools recognize VS Code's importance in the development workflow. This tells you something important: VS Code is industry standard. When you learn VS Code, you're learning a skill that will serve you across multiple tools and platforms. You're learning the language of code editors, and that language is spoken everywhere in the tech world.
 
-### Demo Time: Same Prompt, Three Interfaces
+### Watch Along: Same Prompt, Three Interfaces
 
 To see how different AI coding assistants look and feel, I'll run the exact same prompt in three places:
 
@@ -407,9 +407,9 @@ VS Code can auto-save files, but it's also good to know how to save manually:
 ### Quick Tips for Faster Editing
 
 - **Multi-line selection:** Click and drag to select multiple lines, then type to replace them all at once
-- **Line duplication:** Select a line and press **Ctrl+Shift+K** (Windows/Linux) or **Cmd+Shift+K** (Mac) to delete the entire line. Or press **Ctrl+Shift+D** (Windows/Linux) or **Cmd+Shift+D** (Mac) to duplicate it.
+- **Line duplication:** Select a line and press **Shift+Alt+Down** (Windows/Linux) or **Shift+Option+Down** (Mac) to duplicate it. Press **Ctrl+Shift+K** (Windows/Linux) or **Cmd+Shift+K** (Mac) to delete the entire line instead.
 - **Comment/uncomment:** Select code and press **Ctrl+/** (Windows/Linux) or **Cmd+/** (Mac) to toggle comments
-- **Auto-indent:** Select code and press **Ctrl+Shift+I** (Windows/Linux) or **Cmd+Shift+I** (Mac) to auto-format indentation
+- **Auto-indent/format:** Select code and press **Shift+Alt+F** (Windows/Linux) or **Shift+Option+F** (Mac) to auto-format your code
 
 These shortcuts will save you time and make editing more enjoyable.
 
