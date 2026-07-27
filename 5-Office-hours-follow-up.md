@@ -442,7 +442,7 @@ We're here for follow-ups. There are no dumb questions.
 ### Recommended Resources
 
 - **VS Code documentation** — Seriously good. Help → Welcome, or browse code.visualstudio.com
-- **vscode-101-final.md** — The full workshop guide has deeper dives on everything we touched today
+- **4-Vscode-101-final.md** — The full workshop guide has deeper dives on everything we touched today
 - **GitHub's VS Code guide** — Useful for git-specific workflows
 - **YouTube tutorials** — Search "VS Code [whatever you're interested in]" and you'll find walkthroughs
 

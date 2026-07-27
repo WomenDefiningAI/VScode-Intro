@@ -1,6 +1,6 @@
 ## Before You Start
 
-Before the workshop begins, please complete these quick setup steps. This ensures the workshop runs smoothly and you can focus on learning without technical delays.
+Getting VS Code installed only takes a few minutes, and it's a great first step whenever you're ready to start building. Follow the steps below for your operating system — there's no rush, and you can always come back to this guide later.
 
 ### Download and Install VS Code
 

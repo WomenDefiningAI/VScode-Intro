@@ -596,7 +596,7 @@ You have permission to explore, to be messy, and to learn at your own pace. Ther
 
 For more detailed information, documentation, and advanced topics, check out the comprehensive guide:
 
-**File:** `vscode-101-final.md`
+**File:** `4-Vscode-101-final.md`
 
 This guide goes deeper into topics like:
 

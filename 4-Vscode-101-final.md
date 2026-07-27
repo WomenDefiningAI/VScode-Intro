@@ -824,7 +824,7 @@ This is usually because GitHub requires personal access tokens now, not password
 
 ### Recommended Next Readings
 
-- **[build-together-vscode-workshop.md](/build-together-vscode-workshop.md):** A hands-on workshop to practice VS Code workflows with real projects
+- **[2-Build-together-vscode-workshop.md](/2-Build-together-vscode-workshop.md):** A hands-on workshop to practice VS Code workflows with real projects
 - **[VS Code Keyboard Shortcuts PDF](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf):** Bookmark this; reference it daily
 - **[Git Immersion](https://gitimmersion.com):** Interactive Git tutorial; 54 lessons to mastery
 - **[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/):** Mental model for organizing branches in teams
