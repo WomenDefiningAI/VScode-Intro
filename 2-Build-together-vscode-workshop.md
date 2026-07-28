@@ -51,6 +51,8 @@ For this workshop, we're going to clone the official Women Defining AI repositor
 
 This repository is designed specifically for learning VS Code, so it has clear examples and a great README file to get us started.
 
+> **Quick concept:** If you want to make changes to a repository but don't have direct write access, you can create a fork first. A fork is your own copy of the repository on GitHub. After that, you can clone your fork to your computer and work from there. In many real-world projects, forking is the standard first step before contributing.
+
 ### How to Clone Using VS Code
 
 This is the recommended workflow because it keeps everything integrated into your code editor. Here are the nine steps:
